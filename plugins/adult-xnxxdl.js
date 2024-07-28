@@ -40,8 +40,8 @@ m.react(`🔥`)
 handler.help = ['xnxxdl']
 handler.tags = ['nsfw'];
 handler.command = /^(xnxxdl)$/i;
-handler.limit = 12
-handler.register = true
+
+
 export default handler;
 
 async function xnxxdl(URL) {
